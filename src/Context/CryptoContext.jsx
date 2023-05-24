@@ -82,6 +82,7 @@ export const CryptoProvider = ({ children }) => {
       }}
     >
       {children}
+      
     </CryptoContext.Provider>
   );
 };
